@@ -1,0 +1,53 @@
+#paciente{
+    font-size: 80px;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bolder;
+    margin-top: 30px;
+}
+#local{
+    color: rgb(1, 97, 187);
+    font-size: 60px;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+    font-weight: bolder;
+}
+body{
+    background-color: rgb(236, 236, 236);
+
+}
+#data{
+    font-size: 25px;
+    margin-left: 20px;
+}
+button{
+    margin-top: -10px;
+    width: 210px;
+    margin-bottom: 50px;
+}
+.jumbotron{
+    width: 100%;
+    height: 500px;
+}
+.custom-select{
+    height: 60px;
+    font-size: 25px;
+}
+#principal{
+    width: 600px;
+    margin-left: 25px;
+    text-transform: capitalize;
+}
+select{
+    margin-bottom: 20px;
+}
+#prioridade{
+    width: 100%;
+    height: 600px;
+    margin-top: -30px;
+    padding: 25px;
+    font-size: 45px;
+    background-color: white;
+    text-transform: uppercase;
+}
