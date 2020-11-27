@@ -1,5 +1,5 @@
 #paciente{
-    font-size: 80px;
+    font-size: 30px;
     text-align: center;
     text-transform: uppercase;
     font-weight: bolder;
@@ -7,7 +7,7 @@
 }
 #local{
     color: rgb(1, 97, 187);
-    font-size: 60px;
+    font-size: 20px;
     text-align: center;
     text-transform: uppercase;
     margin-bottom: 10px;
@@ -47,7 +47,7 @@ select{
     height: 600px;
     margin-top: -30px;
     padding: 25px;
-    font-size: 45px;
+    font-size: 30px;
     background-color: white;
     text-transform: uppercase;
 }
