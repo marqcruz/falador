@@ -17,22 +17,9 @@
   <h3 class="display-4" id="local"></h3>
 </div>
 
-<div class="jumbotron" id="prioridade">
-<h2>Últimas Chamadas:</h2>
-<br>
-19/09/2020 às 13:10:25 - Marcos de Sousa da Cruz
-<br>
-19/09/2020 às 13:05:10 - José Aparecido dos Santos
-<br>
-19/09/2020 às 12:11:25 - Luciana Eliza Matos
-<br>
-19/09/2020 às 11:49:30 - Flavia Bevilacqua Nassur
-<br>
-19/09/2020 às 11:10:10 - Amanda Santos
-<br>
-19/09/2020 às 10:55:14 - Beltrano Ciclano Lobo
-<br>
-</div>  
+<!--<div class="jumbotron" id="prioridade">
+
+</div>  -->
 
 <div id="principal">
 <select class="custom-select pri">
